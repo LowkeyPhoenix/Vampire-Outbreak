@@ -1,4 +1,3 @@
-# Vampire-Outbreak
 # Vampire Outbreak: Quarantine Protocol
 
 A 2D sci-fi horror survival game.
